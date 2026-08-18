@@ -1,58 +1,44 @@
-I build software that ships and stays up.
+## Hey there 👋
 
-Software Developer at **Risen Advisory**, building client-facing applications across the full stack. Founder of **Operavax**, a company-building group: find a problem worth solving, build the system that solves it, run it, reinvest in what works.
+I'm Liyema, a software developer based in Kimberley, South Africa.
 
----
+I build things that ship and then have to keep working on Monday morning.
 
-### Now
+By day I'm a Software Developer at **Risen Advisory**, building client-facing apps across the full stack. The rest of the time I run **[Operavax](https://www.operavax.com)**, a company-building group: find a problem worth solving, build the system that solves it, run it, reinvest in what works.
 
-**August 2026** — Running [Depaper](https://depaper.operavax.com) in production and studying the security of AI-generated and agentic software.
+If an idea shows up, I'd rather build it than write it down. That's how [Depaper](https://depaper.operavax.com) happened.
 
-Roughly half of AI-generated code ships with a serious flaw, and most of the people shipping it cannot assess that. I am building toward being someone who can, starting with the systems I own. That is a direction, not a credential, and I will say so until there is public work behind it.
+### What I'm working on
 
----
+**[Depaper](https://depaper.operavax.com)** is live — a workflow platform that replaces paper forms, approvals and compliance with something digital and tracked. Multi-tenant, self-serve, free to enterprise pricing. Universities, hospitals and NGOs are who it's for.
 
-### Shipped
+Right now I'm also learning the security side of AI-generated and agentic software. Roughly half of AI-generated code ships with a serious flaw, and most people shipping it can't tell. I'm working toward being someone who can. That's a direction, not a title, and I'll keep saying so until there's public work behind it.
 
-**[Depaper](https://depaper.operavax.com)** — a live workflow platform that replaces paper forms, approvals and compliance processes with something digital and tracked.
-Multi-tenant, self-serve, public pricing from free to enterprise. Universities, hospitals and NGOs are the target. Next.js, Convex, Clerk, Polar, TypeScript.
+Listings and Earnvo are next.
 
-**[Operavax](https://www.operavax.com)** — the group Depaper belongs to. South African holding company. Build. Own. Compound.
+### My stack
 
-Listings and Earnvo are in progress.
+TypeScript, Next.js, React and Node on the front half. Python and SQL on the back. Convex, Postgres, Tailwind, Vercel. Claude Code does a lot of the heavy lifting these days, and I've built a fair bit of tooling around it.
 
----
+### Things I've won
 
-### Before that, competitions taught me to ship under pressure
+🥇 **1st place, Enactus South Africa Nationals 2025** — I was CEO of Go-Green, helping unemployed youth become microgreen entrepreneurs. Built the marketplace and learning platform from scratch, onboarded 250+ users, raised R41,000 from mLab and Harmony Gold, and beat 32 universities.
 
-| | |
-|---|---|
-| **1st Place** | Enactus South Africa National Exposition 2025. CEO of Go-Green, a social enterprise helping unemployed youth become microgreen entrepreneurs. Built the marketplace and learning platform from scratch, onboarded 250+ users, raised R41,000 from mLab and Harmony Gold, beat 32 universities. |
-| **Top 3 nationally** | French Embassy & EDHE AI and Blue Tech Challenge. GaiaNova, selected for incubation at Stellenbosch University LaunchLab. |
-| **Top 100 global** | Google Solution Challenge 2024 |
-| **2nd Place** | L'Oréal Brandstorm 2024 |
-| **Finalist** | Security Summit AI Cyber Resilience Hackathon 2025 |
+🎯 **Top 3 nationally**, French Embassy & EDHE AI and Blue Tech Challenge — GaiaNova, incubated at Stellenbosch LaunchLab.
 
-Alongside that: tutored 350+ university students in programming, networking and web development, and mentored 119+ high school students in STEM through SPU's Talent Pipeline Programme.
+🌍 **Top 100 globally**, Google Solution Challenge 2024
+🥈 **2nd place**, L'Oréal Brandstorm 2024
+🛡 **Finalist**, Security Summit AI Cyber Resilience Hackathon 2025
 
----
+### A few things about me
 
-### Working with
+- I've tutored 350+ university students and mentored 119+ high schoolers in STEM
+- I get ideas constantly. The hard part has never been ideas
+- Most of my repos are private, which I know is worth nothing to you reading this. Fixing that is next on the list
+- I'd rather ship something small that works than plan something big that doesn't
 
-TypeScript · Next.js · React · Node.js · Python · SQL · Convex · Postgres · Tailwind · Vercel
-
----
-
-### A note on this profile
-
-Most of my work is in private repositories, which is worth nothing to a stranger reading this. Public, verifiable work is what closes that gap, so that is what I am fixing next rather than pinning coursework to fill six slots.
-
-In the meantime, [Depaper](https://depaper.operavax.com) is live and you can click it.
-
----
-
-### Contact
+### Reach me
 
 [operavax.com](https://www.operavax.com) · liyema@operavax.com
 
-If you are building something in AI, security, or software that has to actually work, I am open to talking.
+If you're building something in AI, security, or software that actually has to work, I'm up for a conversation.
