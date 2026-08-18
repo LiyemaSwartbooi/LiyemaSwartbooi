@@ -39,6 +39,6 @@ TypeScript, Next.js, React and Node on the front half. Python and SQL on the bac
 
 ### Reach me
 
-[operavax.com](https://www.operavax.com) · liyema@operavax.com
+**liyema@operavax.com**
 
 If you're building something in AI, security, or software that actually has to work, I'm up for a conversation.
