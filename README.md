@@ -4,7 +4,7 @@ I'm Liyema, a software developer based in Kimberley, South Africa.
 
 I build things that ship and then have to keep working on Monday morning.
 
-By day I'm a Software Developer at **Risen Advisory**, building client-facing apps across the full stack. The rest of the time I run **[Operavax](https://www.operavax.com)**, a company-building group: find a problem worth solving, build the system that solves it, run it, reinvest in what works.
+By day I'm a Software Developer at **Risen Advisory**, building client-facing apps across the full stack. The rest of the time I run **[Operavax](https://www.operavax.com)** ([@Operavax](https://github.com/Operavax) on GitHub), a company-building group: find a problem worth solving, build the system that solves it, run it, reinvest in what works.
 
 If an idea shows up, I'd rather build it than write it down. That's how [Depaper](https://depaper.operavax.com) happened.
 
