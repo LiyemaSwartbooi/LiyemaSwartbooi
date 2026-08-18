@@ -14,6 +14,8 @@ If an idea shows up, I'd rather build it than write it down. That's how [Depaper
 
 Right now I'm also learning the security side of AI-generated and agentic software. Roughly half of AI-generated code ships with a serious flaw, and most people shipping it can't tell. I'm working toward being someone who can. That's a direction, not a title, and I'll keep saying so until there's public work behind it.
 
+**[Tenant isolation in a live multi-tenant platform](https://github.com/LiyemaSwartbooi/depaper-multi-tenant-architecture)** is the first write-up: how Depaper's isolation actually works, counted from the schema rather than estimated, including the parts that are not uniform and what I have not tested.
+
 Listings and Earnvo are next.
 
 ### My stack
@@ -34,7 +36,7 @@ TypeScript, Next.js, React and Node on the front half. Python and SQL on the bac
 
 * I've tutored 350+ university students and mentored 119+ high schoolers in STEM
 * I get ideas constantly. The hard part has never been ideas
-* Most of my repos are private, which I know is worth nothing to you reading this. I'm sanitising one of them into a public case study, with the architecture, the findings and what it doesn't cover
+* Most of my repos are private, which is worth nothing to you reading this, so I started publishing the work instead of the code
 * I'd rather ship something small that works than plan something big that doesn't
 
 ### Reach me
