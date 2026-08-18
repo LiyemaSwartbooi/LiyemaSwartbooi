@@ -34,7 +34,7 @@ TypeScript, Next.js, React and Node on the front half. Python and SQL on the bac
 
 * I've tutored 350+ university students and mentored 119+ high schoolers in STEM
 * I get ideas constantly. The hard part has never been ideas
-* Most of my repos are private, which I know is worth nothing to you reading this. Fixing that is next on the list
+* Most of my repos are private, which I know is worth nothing to you reading this. I'm sanitising one of them into a public case study, with the architecture, the findings and what it doesn't cover
 * I'd rather ship something small that works than plan something big that doesn't
 
 ### Reach me
