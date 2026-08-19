@@ -20,7 +20,7 @@ Listings and Earnvo are next.
 
 ### My stack
 
-TypeScript, Next.js, React and Node on the front half. Python and SQL on the back. Convex, Postgres, Tailwind, Vercel. Claude Code does a lot of the heavy lifting these days, and I've built a fair bit of tooling around it.
+TypeScript, Next.js, React and Node on the front half. Python and SQL on the back. Convex, Postgres, Tailwind, Vercel. Claude Code does a lot of the heavy lifting these days, and I've built a fair bit of tooling around it, including **[claude-brain-sync](https://github.com/LiyemaSwartbooi/claude-brain-sync)**, which keeps Claude's memory and project history identical across my two machines. It mirrors, so it deletes, so most of it is the guard that refuses to overwrite work the other machine has never seen. 47 tests, and several of them exist because the bug they describe destroyed a test file first.
 
 ### Things I've won
 
@@ -36,7 +36,7 @@ TypeScript, Next.js, React and Node on the front half. Python and SQL on the bac
 
 * I've tutored 350+ university students and mentored 119+ high schoolers in STEM
 * I get ideas constantly. The hard part has never been ideas
-* Most of my repos are private, which is worth nothing to you reading this, so I started publishing the work instead of the code
+* Most of my repos are private, which is worth nothing to you reading this, so I started publishing the work instead of the code. The write-ups and the tooling are public even where the product is not
 * I'd rather ship something small that works than plan something big that doesn't
 
 ### Reach me
