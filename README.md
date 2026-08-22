@@ -20,8 +20,6 @@ It was called Depaper until August 2026. Same product, new name, and the old dom
 
 Right now I'm also learning the security side of AI-generated and agentic software. Roughly half of AI-generated code ships with a serious flaw, and most people shipping it can't tell. I'm working toward being someone who can. That's a direction, not a title, and I'll keep saying so until there's public work behind it.
 
-Listings and Earnvo are next.
-
 ### My stack
 
 TypeScript, Next.js, React and Node on the front half. Python and SQL on the back. Convex, Postgres, Clerk, Tailwind, Vercel. Claude Code does a lot of the heavy lifting these days, and I've built a fair bit of tooling around it: an engineering playbook that runs my whole build loop as agent skills, and a memory sync that keeps Claude's project history identical across my two machines. It mirrors, so it deletes, so most of it is the guard that refuses to overwrite work the other machine has never seen.
