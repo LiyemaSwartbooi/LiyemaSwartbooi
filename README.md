@@ -22,7 +22,7 @@ expertise. It stays worded that way until the published work exists.
 
 ---
 
-### What I work with
+### Mostly working in
 
 **AI engineering:** Anthropic API, OpenAI API, Vercel AI SDK, Claude Agent SDK,
 Model Context Protocol, multi-agent orchestration
@@ -31,6 +31,7 @@ Model Context Protocol, multi-agent orchestration
 **Backend and data:** Convex, Supabase, SQL
 **Platform:** Stripe, Clerk, Resend, Vercel
 
+These are what I reach for most, not everything I use. The stack moves with the problem.
 I direct AI tooling to ship production software, and I own the architecture, data model
 and deployed behaviour myself.
 
