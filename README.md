@@ -4,7 +4,7 @@ I turn manual business processes into AI-powered software. I run one in producti
 Forms, approvals, audit trails, and the integrations that connect them to what a company
 already runs.
 
-**Software Developer at Risen Advisory. Founder of Operavax (Pty) Ltd.**
+**Software Developer at Risen Advisory. Founder of Zelpano.**
 
 Kimberley, Northern Cape, South Africa
 
