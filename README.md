@@ -48,15 +48,15 @@ A written breakdown of how it is architected is in progress and will be pinned h
 
 ### Track record
 
-🥇 **1st Place, Enactus South Africa National Exposition 2025.** CEO of Go-Green, a social
+**1st Place, Enactus South Africa National Exposition 2025.** CEO of Go-Green, a social
 enterprise helping unemployed youth become microgreen entrepreneurs. Built the marketplace
 and learning platform, onboarded 250+ users, raised R41,000 from mLab and Harmony Gold,
 placed first against 32 universities.
 
-🎯 **Top 3 nationally**, French Embassy and EDHE AI & Blue Tech Challenge, for GaiaNova.
+**Top 3 nationally**, French Embassy and EDHE AI & Blue Tech Challenge, for GaiaNova.
 Selected for incubation at Stellenbosch University LaunchLab.
 
-🌍 Top 100 Global Finalist, Google Solution Challenge 2024. 2nd Place, L'Oréal Brandstorm
+Top 100 Global Finalist, Google Solution Challenge 2024. 2nd Place, L'Oréal Brandstorm
 2024. Finalist, Security Summit AI Cyber Resilience Hackathon 2025.
 
 Tutored 350+ university students in programming, networking and web development.
