@@ -1,86 +1,42 @@
 # Liyema Swartbooi
 
-I turn manual business processes into AI-powered software. I run one in production.
+**I turn manual business processes into AI-powered software. I run one in production.**
 
-**Software Developer at Risen Advisory. Founder of Zelpano.**
+Software Developer at Risen Advisory · Founder of Zelpano · Applied AI engineering:
+business workflow automation and systems integration · Kimberley, South Africa
 
-Kimberley, Northern Cape, South Africa
+## Now
 
----
+**September 2026.** Building and operating [Zelpano](https://zelpano.com), a universal
+workflow operating platform. At Risen Advisory, building accounting and messaging
+integrations and AI features on the Anthropic API.
 
-### Now
+## Work
 
-Building and operating **[Zelpano](https://zelpano.com)**, a universal workflow operating
-platform. Organisations turn repeatable activities into structured digital systems,
-coordinating participants, information, responsibilities, actions, decisions and outcomes
-in one place. Thirty-one workflows are built across finance claims, HR and recruitment,
-onboarding, shift rostering, performance and compliance. Administrators, members and
-approvers hold different responsibilities, and a public participant completes a workflow
-from a link on any device with no account.
+What each of these proves, rather than what it is.
 
-At Risen Advisory I build production systems that connect to the platforms businesses
-already run, and AI features on the Anthropic API.
+- **[Zelpano](https://zelpano.com)**, mine. Proves I take a product from nothing to live,
+  priced and self-serve. 31 workflows, four public plans, multi-tenant, running now.
+- **An accounting integration in production.** Proves I connect systems that have to
+  reconcile, not just call each other. Xero with encrypted OAuth tokens and invoice sync,
+  plus QuickBooks, on one of my employer's platforms.
+- **An AI feature in production.** Proves I ship AI rather than demo it. Ticket generation
+  on Claude Sonnet with streamed output and an admin-editable prompt layer, in daily use.
+- **Go-Green.** Proves I build things people use under pressure. I built the marketplace
+  and learning platform and ran it as CEO. 1st place, Enactus South Africa National
+  Exposition 2025, against 32 university teams.
 
----
+A write-up of how Zelpano handles multi-tenancy is in progress, and it gets pinned here.
 
-### Work
+## Tools
 
-**[Zelpano](https://zelpano.com)** is mine, and it is the clearest evidence of what I do.
-Live, self-serve, priced in rand from free to enterprise.
+- **Core:** TypeScript, Next.js, React, Convex, Node.js, Python, SQL
+- **AI:** Anthropic API, OpenAI API, Vercel AI SDK, Claude Agent SDK, MCP
+- **Integrations:** Xero, QuickBooks, Meta Business platform, Twilio, Clerk, Polar, Stripe
+- **Delivery:** Vercel, Vitest, Git, Claude Code, Cursor
 
-At **Risen Advisory** I work on three of the company's products. They are the company's
-intellectual property, so what follows is the work rather than the products.
+A sample, not a boundary. I pick tools for the problem.
 
-- An **agricultural operations platform**, field through to finance. I built its Xero
-  accounting integration, encrypting OAuth tokens with AES-256-GCM and syncing invoices so
-  field activity reconciles to the books, plus a QuickBooks integration, subscription
-  billing, WhatsApp messaging through the Meta Business platform, and farm and field
-  management on Mapbox with GPS-accurate boundaries.
-- An **internal engineering workspace**. I built AI ticket generation on Claude Sonnet that
-  turns a plain request into a structured engineering ticket with streamed output, an
-  admin-editable prompt layer so prompts change without a redeployment, and the board,
-  list, calendar and timeline surfaces with role-based access control enforced server-side.
-- A **Xero-connected financial reporting and forecasting product** for accounting firms.
-  A chart of accounts is mapped once and that one structure drives every statement, KPI,
-  dashboard, report pack, consolidation and budget. In design, where I am contributing to
-  the domain model and architecture.
+## Contact
 
-A written breakdown of how Zelpano is architected is in progress and will be pinned here.
-
----
-
-### Some of what I work with
-
-- **AI engineering:** Anthropic API, OpenAI API, Vercel AI SDK, Claude Agent SDK, Model Context Protocol, multi-agent orchestration, streamed generation, admin-editable prompt layers, document extraction and classification, embeddings
-- **AI-assisted delivery:** Claude Code, Codex, Cursor, Copilot, Claude Design, ChatGPT, Figma, Lovable
-- **Application:** TypeScript, Next.js 15 and 16 App Router, React 19, Node.js, native app development, Tailwind CSS v4, Radix UI, shadcn/ui, TanStack Table, framer-motion
-- **Backend and data:** Convex real-time and serverless functions, Supabase, SQL, MongoDB, REST APIs, webhooks, file upload and document processing
-- **Integrations:** Xero accounting API, QuickBooks, Meta Business platform and WhatsApp, Twilio, Google and Microsoft SSO, Clerk, Polar, Stripe, Resend, Mapbox
-- **Architecture:** multi-tenant SaaS with per-client scoping, workflow engines, server-side role-based access control, decision routing and audit trails, server-rendered PDF and spreadsheet export, POPIA and PAIA surfaces
-- **Testing and delivery:** Vitest, Testing Library, Vercel
-
-That list is a sample, not a boundary. I pick tools for the problem and learn whatever the
-problem needs, which in 2026 changes faster than any list can keep up with. What does not
-change is that I direct AI tooling to ship production software and own the architecture,
-data model and deployed behaviour myself.
-
----
-
-### Before this
-
-**1st Place, Enactus South Africa National Exposition 2025**, against 32 university teams.
-I built the marketplace and learning platform for Go-Green and ran it as CEO.
-
-**Winner, AI category**, French Embassy and EDHE AI & Blue Tech Challenge, with GaiaNova.
-Top 100 Global Finalist, Google Solution Challenge 2024.
-
-Tutored 350+ university students in programming, networking and web development.
-
----
-
-### Contact
-
-**liyema@operavax.com** · [LinkedIn](https://www.linkedin.com/in/liyemaswartbooi)
-
-If you are building something in AI, automation, or software that has to actually work,
-I am open to talking.
+[LinkedIn](https://www.linkedin.com/in/liyemaswartbooi) · liyema@operavax.com
