@@ -28,22 +28,22 @@ already run, and AI features on the Anthropic API.
 **[Zelpano](https://zelpano.com)** is mine, and it is the clearest evidence of what I do.
 Live, self-serve, priced in rand from free to enterprise.
 
-At **Risen Advisory** I work on three products. They belong to the company, not to me, and
-all three are public.
+At **Risen Advisory** I work on three of the company's products. They are the company's
+intellectual property, so what follows is the work rather than the products.
 
-- **[TrueAgri](https://www.trueagrihq.com)**, agricultural operations from field to
-  finance. I built the Xero accounting integration with AES-256-GCM token encryption and
-  invoice sync, the QuickBooks integration, subscription billing, WhatsApp messaging
-  through the Meta Business platform, and farm and field management on Mapbox geo-mapping.
-- **Advisory Software Portal**, the firm's internal engineering workspace. I built AI
-  ticket generation on Claude Sonnet that turns a plain request into a structured
-  engineering ticket with streamed output, an admin-editable prompt layer so prompts change
-  without a redeployment, and the board, list, calendar and timeline surfaces with
-  server-enforced role-based access control.
-- **[Insight360](https://insight360hq.com)**, Xero-connected financial reporting and
-  forecasting for accounting firms. Map a chart of accounts once and that one structure
-  drives every statement, KPI, dashboard, report pack, consolidation and budget. Currently
-  in design phase.
+- An **agricultural operations platform**, field through to finance. I built its Xero
+  accounting integration, encrypting OAuth tokens with AES-256-GCM and syncing invoices so
+  field activity reconciles to the books, plus a QuickBooks integration, subscription
+  billing, WhatsApp messaging through the Meta Business platform, and farm and field
+  management on Mapbox with GPS-accurate boundaries.
+- An **internal engineering workspace**. I built AI ticket generation on Claude Sonnet that
+  turns a plain request into a structured engineering ticket with streamed output, an
+  admin-editable prompt layer so prompts change without a redeployment, and the board,
+  list, calendar and timeline surfaces with role-based access control enforced server-side.
+- A **Xero-connected financial reporting and forecasting product** for accounting firms.
+  A chart of accounts is mapped once and that one structure drives every statement, KPI,
+  dashboard, report pack, consolidation and budget. In design, where I am contributing to
+  the domain model and architecture.
 
 A written breakdown of how Zelpano is architected is in progress and will be pinned here.
 
