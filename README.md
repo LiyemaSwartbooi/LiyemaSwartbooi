@@ -26,7 +26,12 @@ What each of these proves, rather than what it is.
   and learning platform and ran it as CEO. 1st place, Enactus South Africa National
   Exposition 2025, against 32 university teams.
 
-A write-up of how Zelpano handles multi-tenancy is in progress, and it gets pinned here.
+## Writing
+
+- **[How tenant isolation and role permissions work in a live multi-tenant SaaS](https://github.com/LiyemaSwartbooi/zelpano-tenant-isolation)**
+  Proves I can audit my own work and publish what I found. 203 tables and 636 indexes counted,
+  the two isolation models a field-name sweep misses, five access-control defects I found and
+  fixed, and a script you can run against your own schema.
 
 ## Tools
 
