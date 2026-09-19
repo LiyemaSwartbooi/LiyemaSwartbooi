@@ -2,8 +2,8 @@
 
 **I turn manual business processes into AI-powered software. I run one in production.**
 
-Software Developer at Risen Advisory · Founder of Zelpano · Applied AI engineering:
-business workflow automation and systems integration · Kimberley, South Africa
+Applied AI engineering: business workflow automation and systems integration.
+Kimberley, South Africa.
 
 ## Now
 
