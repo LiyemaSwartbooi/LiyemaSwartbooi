@@ -22,7 +22,7 @@ What each of these proves, rather than what it is.
   plus QuickBooks, on one of my employer's platforms.
 - **An AI feature in production.** Proves I ship AI rather than demo it. Ticket generation
   on Claude Sonnet with streamed output and an admin-editable prompt layer, in daily use.
-- **Go-Green.** Proves I build things people use under pressure. I built the marketplace
+- **[Go-Green](https://www.spu.ac.za/index.php/spus-go-green-enterprise-wins-national-enactus-challenge/).** Proves I build things people use under pressure. I built the marketplace
   and learning platform and ran it as CEO. 1st place, Enactus South Africa National
   Exposition 2025, against 32 university teams.
 
@@ -30,15 +30,15 @@ What each of these proves, rather than what it is.
 
 - **[How tenant isolation and role permissions work in a live multi-tenant SaaS](https://github.com/LiyemaSwartbooi/zelpano-tenant-isolation)**
   Proves I can audit my own work and publish what I found. 203 tables and 636 indexes counted,
-  the two isolation models a field-name sweep misses, five access-control defects I found and
-  fixed, and a script you can run against your own schema.
+  the two isolation models a field-name sweep misses, four access-control defects I found and
+  fixed, one documented role-mapping trade-off, and a script you can run against your own schema.
 
 ## Tools
 
 - **Core:** TypeScript, Next.js, React, Convex, Node.js, Python, SQL
 - **AI:** Anthropic API, OpenAI API, Vercel AI SDK, Claude Agent SDK, MCP
 - **Integrations:** Xero, QuickBooks, Meta Business platform, Twilio, Clerk, Polar, Stripe
-- **Delivery:** Vercel, Vitest, Git, Claude Code, Cursor
+- **Development and delivery:** Vercel, Vitest, Git, Claude Code, Codex, Cursor
 
 A sample, not a boundary. I pick tools for the problem.
 
